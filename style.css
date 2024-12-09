@@ -276,7 +276,7 @@ body {
 }
 
 .lines-container {
-  background-image: url(/assets/Group\ 1000003043.svg);
+  background-image: url(./assets/Group\ 1000003043.svg);
   width: 100%;
   height: 180px;
   background-color: #000000;
@@ -532,7 +532,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url(/assets/group-one.png);
+  background-image: url(./assets/group-one.png);
   background-size: cover;
   background-repeat: no-repeat;
   filter: grayscale(100%);
@@ -648,12 +648,12 @@ body {
   top: 5px;
   width: 20px;
   height: 20px;
-  background-image: url("/assets/yellow-tick.svg");
+  background-image: url("./assets/yellow-tick.svg");
   background-size: cover;
 }
 
 .robot-container {
-  background-image: url(/assets/robot.png);
+  background-image: url(./assets/robot.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 100%;
@@ -739,7 +739,7 @@ body {
 }
 
 .lines-group-container {
-  background-image: url(/assets/group-lines.svg);
+  background-image: url(./assets/group-lines.svg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -979,7 +979,7 @@ body {
 }
 
 .pricing-one:hover .pricing-list img {
-  background-image: url(/assets/green-filled.svg);
+  background-image: url(./assets/green-filled.svg);
   background-repeat: no-repeat;
   height: 24px;
   width: 24px;
@@ -992,7 +992,7 @@ body {
 }
 
 .pricing-one:hover .pricing-list .icons {
-  background-image: url(/assets/red-filled.svg);
+  background-image: url(./assets/red-filled.svg);
   background-repeat: no-repeat;
   height: 16px;
   width: 20px;
